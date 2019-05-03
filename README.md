@@ -1,2 +1,2 @@
 # Dev-Dojo
-A repo for programming practice and learning.
+A repo for tracking my programming practice and learning.
